@@ -1,0 +1,13 @@
+certifi==2020.4.5.1
+cffi==1.14.0
+cryptography==2.9
+decorator==4.4.2
+future==0.18.2
+fpdf==1.7.2
+pycparser==2.20
+python-telegram-bot==12.6.1
+six==1.14.0
+tornado==6.0.4
+numpy==1.18.0rc1
+matplotlib==2.2.5
+psycopg2-binary==2.8.5
