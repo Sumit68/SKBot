@@ -11,5 +11,3 @@ A simple college bot containing features about College, experiments, timetable, 
 5. Add and delete college events
 6. View your Subject experiments
 7. Get your attendance report in PDF format.
-# PDF Format
-![alt text](https://github.com/Sumit68/SKBot/blob/main/PDF&nbsplayout.jpg?raw=true)
