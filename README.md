@@ -1,5 +1,5 @@
 # SKBot
-A simple college bot containing features about College, experiments, timetable, events as well as student attendence. Thus, this College bot is solution for all above demand.
+A simple college bot containing features about College, experiments, timetable, events as well as student attendence. Thus, this College bot is solution for all above demand. You can try it [here](http://t.me/sumit68bot)
 # Technologies
 - Programming Language: Python
 - Libraries: Python-Telegram-Bot API, Sqlite
