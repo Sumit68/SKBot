@@ -13,3 +13,10 @@ A simple college bot containing features about College, experiments, timetable, 
 7. Get your attendance report in PDF format.
 # Sample Attendance Report
 ![alt text](https://github.com/Sumit68/SKBot/blob/main/PDFlayout.jpg?raw=true)
+
+# Working
+![](1Working.png)
+![](2Working.png)
+![](3Working.png)
+![](4Working.png)
+![](5Working.png)
